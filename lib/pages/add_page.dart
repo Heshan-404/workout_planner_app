@@ -1,5 +1,3 @@
-import 'dart:math';
-
 import 'package:flutter/material.dart';
 import 'package:workout_planner/constants/colors.dart';
 import 'package:workout_planner/data/equipment_data.dart';
